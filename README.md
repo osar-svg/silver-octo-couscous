@@ -79,3 +79,5 @@ If you're coding for the web:
 - Save it as osar-logo.svg.
 - You can embed it in an HTML page or open it in a browser.
 - If #free-solid-font is a custom or local font, you need to embed it using CSS or base64 in the <style> section or host it on the web.
+
+# Happy designing, and good luck with OSAR! 🟡⚫
