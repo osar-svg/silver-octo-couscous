@@ -29,8 +29,10 @@ Use drawing tools that support SVG export:
 
 # 4. JavaScript Libraries (for dynamic SVGs)
 If you're coding for the web:
-- D3.js
-- Snap.svg
+
+The JavaScript SVG library
+- D3.js (https://d3js.org/)
+- Snap.svg (http://snapsvg.io/)
 
 # Quick SVG Examples: Rectangle
 
