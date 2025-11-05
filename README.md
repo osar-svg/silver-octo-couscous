@@ -15,22 +15,14 @@ You can:
 - Embed it directly into HTML.
 
 # 2. Online SVG Editors
-No coding needed. Try:
-- https://www.svgviewer.dev/
-- https://www.vectorizer.ai/
-- https://vectr.com/
-- https://www.figma.com/ (export designs as SVG)
+No coding needed. Try: export designs as SVG
 
 # 3. Graphics Software
 Use drawing tools that support SVG export:
-- Inkscape (Free & Open Source)
 - Adobe Illustrator
-- Figma (Free tier available)
 
 # 4. JavaScript Libraries (for dynamic SVGs)
-If you're coding for the web:
-- D3.js (https://d3js.org/)
-- Snap.svg (http://snapsvg.io/)
+If you're coding for the web...
 
 # Quick SVG Examples: Rectangle
 
