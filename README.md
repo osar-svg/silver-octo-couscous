@@ -21,7 +21,7 @@ Use drawing tools that support SVG export:
 - Adobe Illustrator
 
 # 4. JavaScript Libraries (for dynamic SVGs)
-If you're coding for the web.
+If you're coding for the web...
 
 # Here's a simple SVG logo using:
 - Text: OSAR
