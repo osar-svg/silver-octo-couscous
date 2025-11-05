@@ -5,10 +5,9 @@ Creating simple SVG (Scalable Vector Graphics) images is easy and can be done us
 SVG is XML-based, so you can create images with a text editor.
 
 # Example: A red circle
-
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="50" cy="50" r="40" fill="red" />
-</svg>
+# Quick SVG Examples: Rectangle
+# Quick SVG Examples: Line
+# Quick SVG Examples: Text
 
 You can:
 - Save this as a .svg file and open it in a browser.
@@ -22,25 +21,7 @@ Use drawing tools that support SVG export:
 - Adobe Illustrator
 
 # 4. JavaScript Libraries (for dynamic SVGs)
-If you're coding for the web...
-
-# Quick SVG Examples: Rectangle
-
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect x="10" y="10" width="80" height="50" fill="blue" />
-</svg>
-
-# Quick SVG Examples: Line
-
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="0" x2="100" y2="100" stroke="black" stroke-width="2" />
-</svg>
-
-# Quick SVG Examples: Text
-
-<svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="35" font-size="24" fill="green">Hello SVG</text>
-</svg>
+If you're coding for the web.
 
 # Here's a simple SVG logo using:
 - Text: OSAR
