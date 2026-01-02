@@ -1,3 +1,61 @@
-<svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="35" font-size="24" fill="green">Hello SVG</text>
+<svg width="900" height="260" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font-family: Arial, sans-serif;
+      font-size: 22px;
+      font-weight: bold;
+      fill: #000000;
+    }
+    .box {
+      fill: #FFD700;
+      stroke: #000000;
+      stroke-width: 2;
+      rx: 6;
+      ry: 6;
+    }
+    .text {
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+      fill: #000000;
+      font-weight: bold;
+      text-anchor: middle;
+    }
+    .desc {
+      font-family: Arial, sans-serif;
+      font-size: 12px;
+      fill: #000000;
+      text-anchor: middle;
+    }
+  </style>
+
+  <!-- Title -->
+  <text x="450" y="30" class="title" text-anchor="middle">
+    Serial Number Structure
+  </text>
+
+  <!-- Boxes -->
+  <rect x="30"  y="70" width="140" height="50" class="box"/>
+  <rect x="190" y="70" width="140" height="50" class="box"/>
+  <rect x="350" y="70" width="140" height="50" class="box"/>
+  <rect x="510" y="70" width="140" height="50" class="box"/>
+  <rect x="670" y="70" width="200" height="50" class="box"/>
+
+  <!-- Box Text -->
+  <text x="100" y="100" class="text">MLM</text>
+  <text x="260" y="100" class="text">YYYYMM</text>
+  <text x="420" y="100" class="text">Upline ID</text>
+  <text x="580" y="100" class="text">Member ID</text>
+  <text x="770" y="100" class="text">Branch / Region</text>
+
+  <!-- Descriptions -->
+  <text x="100" y="145" class="desc">System Prefix</text>
+  <text x="260" y="145" class="desc">Joining Date</text>
+  <text x="420" y="145" class="desc">Sponsor Identifier</text>
+  <text x="580" y="145" class="desc">Unique Member</text>
+  <text x="770" y="145" class="desc">Location Code</text>
+
+  <!-- Example -->
+  <text x="450" y="200" class="text">
+    Example: MLM-202601-UL123-MB456
+  </text>
 </svg>
